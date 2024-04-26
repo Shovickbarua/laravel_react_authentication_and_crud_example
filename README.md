@@ -5,7 +5,7 @@ This is the step by step installation guide.
 ```
 git clone https://github.com/Shovickbarua/laravel_react_authentication_and_crud_example.git
 ```
-+ Now setup the project. Make sure to install composer, then generate token and migrate the database using this codes
++ Now setup the project. Make sure to install composer, then generate token and migrate the database using this commands
 ```
 composer update
 php artisan key:generate
