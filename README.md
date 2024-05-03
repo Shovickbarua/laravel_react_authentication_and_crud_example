@@ -10,6 +10,7 @@ git clone https://github.com/Shovickbarua/laravel_react_authentication_and_crud_
 composer update
 php artisan key:generate
 php artisan migrate
+php artisan storage:link
 ```
 + Run npm installation command
 ```
